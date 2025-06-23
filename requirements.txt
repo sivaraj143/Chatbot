@@ -1,0 +1,6 @@
+
+streamlit
+sqlite3
+scikit-learn
+numpy
+pandas
